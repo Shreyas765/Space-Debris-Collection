@@ -1,7 +1,7 @@
 # Space Garbage Collection 
 
 ## Overview
-This a GBA game where you control a spaceship that must collect space debris while avoiding dangerous asteroids. Your mission is to score at least 50 points before the time runs out. If you get hit by an asteroid however, you lose!
+This a Game Boy Advanced game made using C has you controlling a spaceship that must collect space debris while avoiding dangerous asteroids. Your mission is to score at least 50 points before the time runs out. If you get hit by an asteroid however, you lose!
 
 
 ## Controls:
